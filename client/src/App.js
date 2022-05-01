@@ -7,7 +7,7 @@ function App() {
 	const [games, setGames] = useState([]);
 	const [amount, setAmount] = useState(2000);
 
-	const apiKey = "fdc6d2023e7a888b32b563bf2d917469";
+	const apiKey = "";
 	const league = "soccer_australia_aleague";
 	const region = "au";
 
